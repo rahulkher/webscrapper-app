@@ -1,0 +1,13 @@
+selenium
+flask
+langdetect
+langchain
+openai==0.28
+huggingface_hub
+python-dotenv
+requests
+hashlib
+json
+re
+msedge-selenium-tools
+Flask-SQLAlchemy
